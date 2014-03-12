@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyImageEditor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_save">保存</string>
+    <string name="action_crop">裁剪</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
